@@ -12,7 +12,7 @@ Chatbot Memo - Frontend
 
 ## About The App
 
-Chatbot Memo - Frontend is a chatbot which helps users understand crypto with its custom knowledge
+Chatbot Memo - Frontend is a Chatbot UI with pdf upload component for submitting training knowledge data to backend
 
 ## Screenshots
 
