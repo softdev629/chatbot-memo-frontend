@@ -16,7 +16,7 @@ Chatbot Memo - Frontend is a chatbot which helps users understand crypto with it
 
 ## Screenshots
 
-![Chatbot screenshot](./img/screenshot-1.png)
+![Chatbot screenshot](./img/screenshot.png)
 
 ## Technologies
 
